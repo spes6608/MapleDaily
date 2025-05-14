@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{092876C0-8CED-46B4-AED6-9530AC42E687}|MapleDaily\\MapleDaily.csproj|c:\\users\\xiphoiz\\desktop\\mapledaily\\mapledaily\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092876C0-8CED-46B4-AED6-9530AC42E687}|MapleDaily\\MapleDaily.csproj|solutionrelative:mapledaily\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092876C0-8CED-46B4-AED6-9530AC42E687}|MapleDaily\\MapleDaily.csproj|C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\mapledaily\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092876C0-8CED-46B4-AED6-9530AC42E687}|MapleDaily\\MapleDaily.csproj|solutionrelative:mapledaily\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092876C0-8CED-46B4-AED6-9530AC42E687}|MapleDaily\\MapleDaily.csproj|C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\mapledaily\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092876C0-8CED-46B4-AED6-9530AC42E687}|MapleDaily\\MapleDaily.csproj|solutionrelative:mapledaily\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092876C0-8CED-46B4-AED6-9530AC42E687}|MapleDaily\\MapleDaily.csproj|C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\mapledaily\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092876C0-8CED-46B4-AED6-9530AC42E687}|MapleDaily\\MapleDaily.csproj|solutionrelative:mapledaily\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\MapleDaily\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MapleDaily\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\MapleDaily\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "MapleDaily\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:04:01.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\MapleDaily\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MapleDaily\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\MapleDaily\\Form1.Designer.cs",
+              "RelativeToolTip": "MapleDaily\\Form1.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADgvzQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:43:18.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\MapleDaily\\Form1.cs",
+              "RelativeDocumentMoniker": "MapleDaily\\Form1.cs",
+              "ToolTip": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\MapleDaily\\Form1.cs",
+              "RelativeToolTip": "MapleDaily\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMCAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:15:24.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\MapleDaily\\Form1.cs",
+              "RelativeDocumentMoniker": "MapleDaily\\Form1.cs",
+              "ToolTip": "C:\\Users\\Xiphoiz\\Desktop\\MapleDaily\\MapleDaily\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "MapleDaily\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:05:33.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

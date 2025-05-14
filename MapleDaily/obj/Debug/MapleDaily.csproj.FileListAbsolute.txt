@@ -1,0 +1,10 @@
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\obj\Debug\MapleDaily.csproj.AssemblyReference.cache
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\obj\Debug\MapleDaily.Form1.resources
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\obj\Debug\MapleDaily.Properties.Resources.resources
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\obj\Debug\MapleDaily.csproj.GenerateResource.cache
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\obj\Debug\MapleDaily.csproj.CoreCompileInputs.cache
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\bin\Debug\MapleDaily.exe.config
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\bin\Debug\MapleDaily.exe
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\bin\Debug\MapleDaily.pdb
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\obj\Debug\MapleDaily.exe
+C:\Users\Xiphoiz\Desktop\MapleDaily\MapleDaily\obj\Debug\MapleDaily.pdb
